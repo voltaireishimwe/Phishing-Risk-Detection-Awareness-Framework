@@ -204,6 +204,9 @@ MIT License - see [LICENSE](LICENSE) file
 - All contributors and testers
 
 ---
+<img width="1808" height="1662" alt="Screenshot 2025-10-23 at 15-09-12 Phishing Risk Detection Framework" src="https://github.com/user-attachments/assets/a9aa621c-b9ef-40e5-8f65-d291f1a22eea" />
+<img width="1814" height="1453" alt="Screenshot 2025-10-23 at 15-10-47 Phishing Risk Detection Framework" src="https://github.com/user-attachments/assets/e6790a16-06cf-44b7-86c4-06454a882542" />
+<img width="1798" height="6548" alt="Screenshot 2025-10-23 at 15-11-23 Model Performance Metrics - Phishing Risk Detection" src="https://github.com/user-attachments/assets/96a6bda7-16a9-44fe-ae05-deff862c78e8" />
 
 <div align="center">
 
